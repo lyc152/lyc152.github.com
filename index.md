@@ -14,4 +14,4 @@ tagline: 欢迎光临
       name : petter.li
       email : lyc152@126.com
       github : https://github.com/lyc152/
-      twitter : lyc152
+      blog : http://lyc152.github.io/
